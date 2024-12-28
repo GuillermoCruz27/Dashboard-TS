@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+.env
+tsconfig.app.json
+.hintrc
 
 # Editor directories and files
 .vscode/*
